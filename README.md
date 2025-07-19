@@ -1,2 +1,7 @@
-# C-developer
-My first project on Github
+// C++ developer
+#include<iostream>
+using namespace std;
+int main() {
+    cout << "Hello, world!";
+    return 0;
+}
