@@ -12,7 +12,7 @@ This repository contains a collection of real life projects based on basic C++ p
 - Arrays and Pointers  
 - Object-Oriented Programming (Classes and Objects).
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository or download the files.  
 2. Open the `.cpp` files in your favorite C++ compiler.  
@@ -24,7 +24,7 @@ This repository contains a collection of real life projects based on basic C++ p
 - `loops.cpp` — Programs related to loops  
 - More files will be added as I progress...
 
-## 🙋‍♀️ About Me
+##  About Me
 
 I am currently learning C++ and Data Structures.  
 This repository is a part of my learning journey and will be updated regularly with new concepts and programs.
