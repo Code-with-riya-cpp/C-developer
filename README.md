@@ -2,7 +2,7 @@
 # C++ Basic Programs
 
 Welcome to my C++ Programming Repository!  
-This repository contains a collection of basic C++ programs that demonstrate important programming concepts such as:
+This repository contains a collection of real life projects based on basic C++ programs that demonstrate important programming concepts such as:
 
 - Variables and Data Types  
 - Loops (for, while, do-while)  
@@ -10,12 +10,7 @@ This repository contains a collection of basic C++ programs that demonstrate imp
 - Functions (with and without parameters)  
 - Recursion  
 - Arrays and Pointers  
-- Object-Oriented Programming (Classes and Objects)
-
-## 🛠 Technologies Used
-
-- Language: C++
-- IDE: Any C++ compiler (e.g., Code::Blocks, Dev C++, VS Code)
+- Object-Oriented Programming (Classes and Objects).
 
 ## 🚀 How to Run
 
